@@ -1,0 +1,17 @@
+{
+    "BundlesLayout": {
+        "m_Guids": [],
+        "m_Bundles": []
+    },
+    "BundleDependencies": {
+        "m_List": []
+    },
+    "BlueprintPatches": [
+
+        {
+            "Guid": "45a4607686d96a1498891b3286121780",
+            "Filename": "ArcaneSkirmisherMargus.patch"
+        }
+		
+							]
+}

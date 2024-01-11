@@ -1,0 +1,18 @@
+{
+    "strings": [
+
+	{
+            "Key": "ArcaneSkirmisher_Name",
+            "Value": "Arcane Skirmisher"
+        },
+		{
+            "Key": "ArcaneSkirmisher_Description",
+            "Value": "Arcane riders that focus on skirmishing tactics and use of the short bow."
+        },
+
+	{
+            "Key": "ArcaneSkirmisher_ShortDescription",
+            "Value": ""
+        }
+     ]	
+}

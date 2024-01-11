@@ -1,0 +1,180 @@
+{
+"AssetId": "6fbabc916c0049c185db9eee17f35307",
+"Data":
+{
+  "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+  "PrototypeLink": "",
+  "m_Overrides": [],
+  "Components": [],
+  "Comment": "",
+      "LocalizedName": {
+      "m_Key": "ArcaneSkirmisher_Name",
+      "m_OwnerString": "6fbabc916c0049c185db9eee17f35307",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedDescription": {
+      "m_Key": "ArcaneSkirmisher_Description",
+      "m_OwnerString": "6fbabc916c0049c185db9eee17f35307",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "ArcaneSkirmisher_ShortDescription",
+      "m_OwnerString": "6fbabc916c0049c185db9eee17f35307",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+  "m_Icon": null,
+  "m_ReplaceSpellbook": null,
+  "RemoveSpellbook": false,
+  "BuildChanging": false,
+  "AddFeatures": [
+    {
+      "Level": 1,
+      "m_Features": [
+        "!bp_82c791d4790c45dcac6038ef6932c3e3",
+        "!bp_0138fd1cfbe644f9ae60c436395950bf",
+        "!bp_5ced53df7c1c46e5a6c665ff05e2962b",
+        "!bp_8b68a5b8223beed40b137885116c408f",
+	      "!bp_3dfac9eea9750c14b8851852b8d77dee"
+      ]
+    },
+    {
+      "Level": 2,
+      "m_Features": [
+        "!bp_6aa84ca8918ac604685a3d39a13faecc"
+      ]
+    },
+    {
+      "Level": 5,
+      "m_Features": [
+        "!bp_a8015a3328b0578458b858cf7f8179a1"
+      ]
+    },
+    {
+      "Level": 8,
+      "m_Features": [
+        "!bp_ad20d347286f463f90f3532f7dddac0f"
+      ]
+    },
+    {
+      "Level": 11,
+      "m_Features": [
+        "!bp_7fb6b0c11a78da84aa6f2c7642bdde74"
+      ]
+    },
+    {
+      "Level": 14,
+      "m_Features": [
+        "!bp_d7ad915605954b35846cd2f0a4207fc8"
+      ]
+    },
+    {
+      "Level": 17,
+      "m_Features": [
+        "!bp_ca3f1c30b3aae58459fa7dbfa620164c"
+      ]
+    }
+  ],
+  "RemoveFeatures": [
+    {
+      "Level": 1,
+      "m_Features": [
+        "!bp_2464ba53317c7fc4d88f383fac2b45f9"
+      ]
+    },
+    {
+      "Level": 2,
+      "m_Features": [
+        "!bp_be50f4e97fff8a24ba92561f1694a945"
+      ]
+    },
+    {
+      "Level": 4,
+      "m_Features": [
+        "!bp_61fc0521e9992624e9c518060bf89c0f"
+      ]
+    },
+    {
+      "Level": 5,
+      "m_Features": [
+        "!bp_66befe7b24c42dd458952e3c47c93563"
+      ]
+    },
+    {
+      "Level": 7,
+      "m_Features": [
+        "!bp_b24897e082896654c8dd64c8fb677363"
+      ]
+    },
+    {
+      "Level": 10,
+      "m_Features": [
+        "!bp_2b636b9e8dd7df94cbd372c52237eebf",
+      ]
+    },
+    {
+      "Level": 11,
+      "m_Features": [
+        "!bp_0ef6ec1c2fdfc204fbd3bff9f1609490",
+        "!bp_66befe7b24c42dd458952e3c47c93563"
+      ]
+    },
+    {
+      "Level": 13,
+      "m_Features": [
+        "!bp_447ca91389e5c9246acb2c640d63f4da"
+      ]
+    },
+    {
+      "Level": 16,
+      "m_Features": [
+        "!bp_cd96b7275c206da4899c69ae127ffda6"
+      ]
+    },
+    {
+      "Level": 17,
+      "m_Features": [
+        "!bp_66befe7b24c42dd458952e3c47c93563"
+      ]
+    }
+  ],
+  "ReplaceStartingEquipment": true,
+  "StartingGold": 0,
+  "m_StartingItems": [
+    "!bp_afbe88d27a0eb544583e00fa78ffb2c7",
+    "!bp_201f6150321e09048bd59e9b7f558cb0",
+    "!bp_66fc961f9c39ae94fb87a79adc87212e",
+    "!bp_fbf7f9d21c12146479a5c261743afbde",
+    "!bp_63caf94a780472b448f50d0bc183c38f"
+  ],
+  "ReplaceClassSkills": true,
+  "ClassSkills": [
+    "SkillKnowledgeArcana",
+    "SkillKnowledgeWorld",
+    "SkillLoreNature",
+    "SkillPerception",
+    "SkillMobility"
+  ],
+  "ChangeCasterType": false,
+  "IsDivineCaster": false,
+  "IsArcaneCaster": false,
+  "AddSkillPoints": 0,
+  "OverrideAttributeRecommendations": false,
+  "RecommendedAttributes": [
+    "Intelligence",
+    "Dexterity"
+  ],
+  "NotRecommendedAttributes": [],
+  "m_SignatureAbilities": [],
+  "m_BaseAttackBonus": null,
+  "m_FortitudeSave": null,
+  "m_ReflexSave": null,
+  "m_WillSave": null,
+  "m_Difficulty": 1
+}
+}
